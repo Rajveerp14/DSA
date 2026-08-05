@@ -1,24 +1,25 @@
 {
-  "totalSolved": 2,
-  "currentStreak": 1,
-  "maxStreak": 1,
-  "lastSyncDate": "2026-08-04",
-  "todayCount": 2,
+  "totalSolved": 3,
+  "currentStreak": 2,
+  "maxStreak": 2,
+  "lastSyncDate": "2026-08-05",
+  "todayCount": 1,
   "difficultyCounts": {
-    "easy": 2,
+    "easy": 3,
     "medium": 0,
     "hard": 0,
     "basic": 0
   },
   "syncedProblems": {
     "LeetCode_Sum_of_Unique_Elements": true,
-    "LeetCode_Pascal's_Triangle": true
+    "LeetCode_Pascal's_Triangle": true,
+    "GeeksForGeeks_Selection_Sort": true
   },
   "activityHistory": {
-    "2026-08-04": 2
+    "2026-08-04": 2,
+    "2026-08-05": 1
   },
   "todayProblems": [
-    "Sum of Unique Elements",
-    "Pascal's Triangle"
+    "Selection Sort"
   ]
 }
