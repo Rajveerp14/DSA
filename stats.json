@@ -1,12 +1,12 @@
 {
-  "totalSolved": 4,
+  "totalSolved": 5,
   "currentStreak": 1,
   "maxStreak": 2,
   "lastSyncDate": "2026-08-10",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 4,
-    "medium": 0,
+    "medium": 1,
     "hard": 0,
     "basic": 0
   },
@@ -14,14 +14,16 @@
     "LeetCode_Sum_of_Unique_Elements": true,
     "LeetCode_Pascal's_Triangle": true,
     "GeeksForGeeks_Selection_Sort": true,
-    "GeeksForGeeks_Segregate_0s_and_1s": true
+    "GeeksForGeeks_Segregate_0s_and_1s": true,
+    "LeetCode_Sort_Colors": true
   },
   "activityHistory": {
     "2026-08-04": 2,
     "2026-08-05": 1,
-    "2026-08-10": 1
+    "2026-08-10": 2
   },
   "todayProblems": [
-    "Segregate 0s and 1s"
+    "Segregate 0s and 1s",
+    "Sort Colors"
   ]
 }
