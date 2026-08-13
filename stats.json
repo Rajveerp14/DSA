@@ -1,11 +1,11 @@
 {
-  "totalSolved": 9,
+  "totalSolved": 10,
   "currentStreak": 2,
   "maxStreak": 2,
   "lastSyncDate": "2026-08-13",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
-    "easy": 7,
+    "easy": 8,
     "medium": 2,
     "hard": 0,
     "basic": 0
@@ -19,17 +19,19 @@
     "GeeksForGeeks_Toggle_Case": true,
     "LeetCode_Valid_Palindrome": true,
     "GeeksForGeeks_Convert_Sentence_to_Camel_Case": true,
-    "GeeksForGeeks_Most_Frequent_Character": true
+    "GeeksForGeeks_Most_Frequent_Character": true,
+    "GeeksForGeeks_Search_a_Character_in_a_String": true
   },
   "activityHistory": {
     "2026-08-04": 2,
     "2026-08-05": 1,
     "2026-08-10": 2,
     "2026-08-12": 2,
-    "2026-08-13": 2
+    "2026-08-13": 3
   },
   "todayProblems": [
     "Convert Sentence to Camel Case",
-    "Most Frequent Character"
+    "Most Frequent Character",
+    "Search a Character in a String"
   ]
 }
