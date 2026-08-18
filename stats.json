@@ -1,11 +1,11 @@
 {
-  "totalSolved": 13,
+  "totalSolved": 14,
   "currentStreak": 1,
   "maxStreak": 2,
   "lastSyncDate": "2026-08-18",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
-    "easy": 10,
+    "easy": 11,
     "medium": 3,
     "hard": 0,
     "basic": 0
@@ -23,7 +23,8 @@
     "GeeksForGeeks_Search_a_Character_in_a_String": true,
     "LeetCode_Capitalize_the_Title": true,
     "LeetCode_Largest_Odd_Number_in_String": true,
-    "LeetCode_Reverse_Words_in_a_String": true
+    "LeetCode_Reverse_Words_in_a_String": true,
+    "LeetCode_Rotate_String": true
   },
   "activityHistory": {
     "2026-08-04": 2,
@@ -31,10 +32,11 @@
     "2026-08-10": 2,
     "2026-08-12": 2,
     "2026-08-13": 4,
-    "2026-08-18": 2
+    "2026-08-18": 3
   },
   "todayProblems": [
     "Largest Odd Number in String",
-    "Reverse Words in a String"
+    "Reverse Words in a String",
+    "Rotate String"
   ]
 }
