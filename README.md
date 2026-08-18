@@ -12,3 +12,4 @@
 | 10 | [Search a Character in a String](./GeeksForGeeks/Easy/Search%20a%20Character%20in%20a%20String) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/search-a-character-in-a-string/1) | Easy | 13 Aug 2026 | 08:16 am |
 | 11 | [Capitalize the Title](./LeetCode/Easy/Capitalize%20the%20Title) | [LeetCode](https://leetcode.com/problems/capitalize-the-title/) | Easy | 13 Aug 2026 | 09:51 am |
 | 12 | [Largest Odd Number in String](./LeetCode/Easy/Largest%20Odd%20Number%20in%20String) | [LeetCode](https://leetcode.com/problems/largest-odd-number-in-string/) | Easy | 18 Aug 2026 | 08:30 am |
+| 13 | [Reverse Words in a String](./LeetCode/Medium/Reverse%20Words%20in%20a%20String) | [LeetCode](https://leetcode.com/problems/reverse-words-in-a-string/) | Medium | 18 Aug 2026 | 08:56 am |
