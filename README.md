@@ -14,3 +14,4 @@
 | 12 | [Largest Odd Number in String](./LeetCode/Easy/Largest%20Odd%20Number%20in%20String) | [LeetCode](https://leetcode.com/problems/largest-odd-number-in-string/) | Easy | 18 Aug 2026 | 08:30 am |
 | 13 | [Reverse Words in a String](./LeetCode/Medium/Reverse%20Words%20in%20a%20String) | [LeetCode](https://leetcode.com/problems/reverse-words-in-a-string/) | Medium | 18 Aug 2026 | 08:56 am |
 | 14 | [Rotate String](./LeetCode/Easy/Rotate%20String) | [LeetCode](https://leetcode.com/problems/rotate-string/) | Easy | 18 Aug 2026 | 10:04 am |
+| 15 | [Detect Capital](./LeetCode/Easy/Detect%20Capital) | [LeetCode](https://leetcode.com/problems/detect-capital/) | Easy | 19 Aug 2026 | 08:20 am |
