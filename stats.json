@@ -1,11 +1,11 @@
 {
-  "totalSolved": 18,
+  "totalSolved": 19,
   "currentStreak": 1,
   "maxStreak": 2,
   "lastSyncDate": "2026-08-26",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
-    "easy": 15,
+    "easy": 16,
     "medium": 3,
     "hard": 0,
     "basic": 0
@@ -28,7 +28,8 @@
     "LeetCode_Detect_Capital": true,
     "LeetCode_Remove_Element": true,
     "GeeksForGeeks_Implement_Lower_Bound": true,
-    "GeeksForGeeks_Implement_Upper_Bound": true
+    "GeeksForGeeks_Implement_Upper_Bound": true,
+    "LeetCode_Smallest_Missing_Multiple_of_K": true
   },
   "activityHistory": {
     "2026-08-04": 2,
@@ -38,10 +39,11 @@
     "2026-08-13": 4,
     "2026-08-18": 3,
     "2026-08-19": 2,
-    "2026-08-26": 2
+    "2026-08-26": 3
   },
   "todayProblems": [
     "Implement Lower Bound",
-    "Implement Upper Bound"
+    "Implement Upper Bound",
+    "Smallest Missing Multiple of K"
   ]
 }
