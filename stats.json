@@ -1,12 +1,12 @@
 {
-  "totalSolved": 20,
+  "totalSolved": 21,
   "currentStreak": 1,
   "maxStreak": 2,
   "lastSyncDate": "2026-08-26",
-  "todayCount": 4,
+  "todayCount": 5,
   "difficultyCounts": {
     "easy": 17,
-    "medium": 3,
+    "medium": 4,
     "hard": 0,
     "basic": 0
   },
@@ -30,7 +30,8 @@
     "GeeksForGeeks_Implement_Lower_Bound": true,
     "GeeksForGeeks_Implement_Upper_Bound": true,
     "LeetCode_Smallest_Missing_Multiple_of_K": true,
-    "LeetCode_Check_Divisibility_by_Digit_Sum_and_Product": true
+    "LeetCode_Check_Divisibility_by_Digit_Sum_and_Product": true,
+    "LeetCode_Find_First_and_Last_Position_of_Element_in_Sorted_Array": true
   },
   "activityHistory": {
     "2026-08-04": 2,
@@ -40,12 +41,13 @@
     "2026-08-13": 4,
     "2026-08-18": 3,
     "2026-08-19": 2,
-    "2026-08-26": 4
+    "2026-08-26": 5
   },
   "todayProblems": [
     "Implement Lower Bound",
     "Implement Upper Bound",
     "Smallest Missing Multiple of K",
-    "Check Divisibility by Digit Sum and Product"
+    "Check Divisibility by Digit Sum and Product",
+    "Find First and Last Position of Element in Sorted Array"
   ]
 }
