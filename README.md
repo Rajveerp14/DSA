@@ -17,3 +17,4 @@
 | 15 | [Detect Capital](./LeetCode/Easy/Detect%20Capital) | [LeetCode](https://leetcode.com/problems/detect-capital/) | Easy | 19 Aug 2026 | 08:20 am |
 | 16 | [Remove Element](./LeetCode/Easy/Remove%20Element) | [LeetCode](https://leetcode.com/problems/remove-element/) | Easy | 19 Aug 2026 | 08:33 am |
 | 17 | [Implement Lower Bound](./GeeksForGeeks/Easy/Implement%20Lower%20Bound) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/implement-lower-bound/1) | Easy | 26 Aug 2026 | 08:41 am |
+| 18 | [Implement Upper Bound](./GeeksForGeeks/Easy/Implement%20Upper%20Bound) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/implement-upper-bound/1) | Easy | 26 Aug 2026 | 08:43 am |
