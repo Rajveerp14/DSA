@@ -1,12 +1,12 @@
 {
-  "totalSolved": 24,
+  "totalSolved": 25,
   "currentStreak": 1,
   "maxStreak": 2,
   "lastSyncDate": "2026-08-31",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 18,
-    "medium": 6,
+    "medium": 7,
     "hard": 0,
     "basic": 0
   },
@@ -34,7 +34,8 @@
     "LeetCode_Find_First_and_Last_Position_of_Element_in_Sorted_Array": true,
     "LeetCode_Sqrt(x)": true,
     "LeetCode_Search_in_Rotated_Sorted_Array": true,
-    "LeetCode_Search_a_2D_Matrix": true
+    "LeetCode_Search_a_2D_Matrix": true,
+    "LeetCode_Peak_Index_in_a_Mountain_Array": true
   },
   "activityHistory": {
     "2026-08-04": 2,
@@ -45,10 +46,11 @@
     "2026-08-18": 3,
     "2026-08-19": 2,
     "2026-08-26": 6,
-    "2026-08-31": 2
+    "2026-08-31": 3
   },
   "todayProblems": [
     "Search in Rotated Sorted Array",
-    "Search a 2D Matrix"
+    "Search a 2D Matrix",
+    "Peak Index in a Mountain Array"
   ]
 }
