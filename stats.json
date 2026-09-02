@@ -1,12 +1,12 @@
 {
-  "totalSolved": 27,
-  "currentStreak": 2,
-  "maxStreak": 2,
-  "lastSyncDate": "2026-09-01",
-  "todayCount": 2,
+  "totalSolved": 28,
+  "currentStreak": 3,
+  "maxStreak": 3,
+  "lastSyncDate": "2026-09-02",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 19,
-    "medium": 8,
+    "medium": 9,
     "hard": 0,
     "basic": 0
   },
@@ -37,7 +37,8 @@
     "LeetCode_Search_a_2D_Matrix": true,
     "LeetCode_Peak_Index_in_a_Mountain_Array": true,
     "LeetCode_Longest_Substring_Without_Repeating_Characters": true,
-    "LeetCode_Add_Binary": true
+    "LeetCode_Add_Binary": true,
+    "LeetCode_Minimum_Time_to_Complete_Trips": true
   },
   "activityHistory": {
     "2026-08-04": 2,
@@ -49,10 +50,10 @@
     "2026-08-19": 2,
     "2026-08-26": 6,
     "2026-08-31": 3,
-    "2026-09-01": 2
+    "2026-09-01": 2,
+    "2026-09-02": 1
   },
   "todayProblems": [
-    "Longest Substring Without Repeating Characters",
-    "Add Binary"
+    "Minimum Time to Complete Trips"
   ]
 }
