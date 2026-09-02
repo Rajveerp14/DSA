@@ -1,12 +1,12 @@
 {
-  "totalSolved": 28,
+  "totalSolved": 29,
   "currentStreak": 3,
   "maxStreak": 3,
   "lastSyncDate": "2026-09-02",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 19,
-    "medium": 9,
+    "medium": 10,
     "hard": 0,
     "basic": 0
   },
@@ -38,7 +38,8 @@
     "LeetCode_Peak_Index_in_a_Mountain_Array": true,
     "LeetCode_Longest_Substring_Without_Repeating_Characters": true,
     "LeetCode_Add_Binary": true,
-    "LeetCode_Minimum_Time_to_Complete_Trips": true
+    "LeetCode_Minimum_Time_to_Complete_Trips": true,
+    "LeetCode_Koko_Eating_Bananas": true
   },
   "activityHistory": {
     "2026-08-04": 2,
@@ -51,9 +52,10 @@
     "2026-08-26": 6,
     "2026-08-31": 3,
     "2026-09-01": 2,
-    "2026-09-02": 1
+    "2026-09-02": 2
   },
   "todayProblems": [
-    "Minimum Time to Complete Trips"
+    "Minimum Time to Complete Trips",
+    "Koko Eating Bananas"
   ]
 }
