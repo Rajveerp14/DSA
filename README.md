@@ -29,3 +29,4 @@
 | 27 | [Add Binary](./LeetCode/Easy/Add%20Binary) | [LeetCode](https://leetcode.com/problems/add-binary/) | Easy | 01 Sept 2026 | 06:08 pm |
 | 28 | [Minimum Time to Complete Trips](./LeetCode/Medium/Minimum%20Time%20to%20Complete%20Trips) | [LeetCode](https://leetcode.com/problems/minimum-time-to-complete-trips/) | Medium | 02 Sept 2026 | 08:59 am |
 | 29 | [Koko Eating Bananas](./LeetCode/Medium/Koko%20Eating%20Bananas) | [LeetCode](https://leetcode.com/problems/koko-eating-bananas/) | Medium | 02 Sept 2026 | 09:45 am |
+| 30 | [Find Peak Element](./LeetCode/Medium/Find%20Peak%20Element) | [LeetCode](https://leetcode.com/problems/find-peak-element/) | Medium | 28 Sept 2026 | 11:05 am |
