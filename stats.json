@@ -1,14 +1,14 @@
 {
-  "totalSolved": 30,
-  "currentStreak": 1,
+  "totalSolved": 31,
+  "currentStreak": 2,
   "maxStreak": 3,
-  "lastSyncDate": "2026-09-28",
+  "lastSyncDate": "2026-09-29",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 19,
     "medium": 11,
     "hard": 0,
-    "basic": 0
+    "basic": 1
   },
   "syncedProblems": {
     "LeetCode_Sum_of_Unique_Elements": true,
@@ -40,7 +40,8 @@
     "LeetCode_Add_Binary": true,
     "LeetCode_Minimum_Time_to_Complete_Trips": true,
     "LeetCode_Koko_Eating_Bananas": true,
-    "LeetCode_Find_Peak_Element": true
+    "LeetCode_Find_Peak_Element": true,
+    "GeeksForGeeks_Binary_Search": true
   },
   "activityHistory": {
     "2026-08-04": 2,
@@ -54,9 +55,10 @@
     "2026-08-31": 3,
     "2026-09-01": 2,
     "2026-09-02": 2,
-    "2026-09-28": 1
+    "2026-09-28": 1,
+    "2026-09-29": 1
   },
   "todayProblems": [
-    "Find Peak Element"
+    "Binary Search"
   ]
 }
